@@ -18,7 +18,7 @@ export default function Hero() {
               {t.hero.badge}
             </p>
           </div>
-          <p className="text-emerald-400 font-medium mb-6 text-lg">
+          <p className="text-emerald-400 font-medium mb-6 text-lg italic">
             {t.hero.lookingFor}
           </p>
         </div>

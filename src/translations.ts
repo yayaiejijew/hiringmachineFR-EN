@@ -138,10 +138,10 @@ export const translations = {
   en: {
     hero: {
       badge: "Free 21-Day Trial of the Hiring Machine",
-      lookingFor: "We're looking for 3 more companies to build this for",
-      title: "BUSINESS OWNERS: Get a Fully Automated (Almost) Hiring Machine Set Up in Your Business in 48 Hours, Free — Done For You, So You Never Chase Candidates Again or Lose Your Best People",
-      testimonial: "We processed dozens of candidates with this system and it saved us an incredible amount of time.",
-      guarantee: "IF THIS MACHINE DOESN'T CUT YOUR ADMIN TIME BY 50 TO 86.67% (speed keeps the best candidates interested) YOU DON'T PAY A CENT. AND YOU KEEP EVERYTHING.",
+      lookingFor: "We're looking for 2 more companies to build this for until Jan 8th, 2026!",
+      title: "Get a Fully Automated (Almost) Hiring Machine Set Up in Your Business in 48 Hours, Free — Done For You, So You Never Chase Candidates Again or Lose Your Best People",
+      testimonial: "We've processed dozens of candidates with this system and it saved us a ridiculous amount of time.",
+      guarantee: "IF THIS MACHINE DOESN'T CUT YOUR ADMIN TIME BY 50 TO 86.67% (speed keeps the best candidates) YOU DO NOT PAY A CENT. AND YOU CAN KEEP EVERYTHING.",
       description: "For business owners who want to hire more efficiently, minimize the risk of losing great candidates, always have people to call when you need them, and eliminate 10 to 15 hours of chaotic, totally avoidable manual admin work."
     },
     problem: {
@@ -149,7 +149,7 @@ export const translations = {
       stats: "Some pretty wild stats:",
       stat1: {
         percent: "70%",
-        text: "of job seekers lose interest if you don't respond within a week after an interview",
+        text: "of job seekers lose interest if they don't hear back within one week of an interview",
         source: "(Addison Group)"
       },
       stat2: {
@@ -164,28 +164,28 @@ export const translations = {
       },
       meaning: "What does this mean:",
       impact1: "If you're slow, you lose candidates",
-      impact2: "If your process is clunky, you lose candidates",
-      impact3: "If you lose the best people, your business starts to underperform",
-      circle: "You can see pretty quick how this becomes a vicious cycle."
+      impact2: "If you have a bad process, you lose applicants",
+      impact3: "If you lose the best applicants, your business will start underperforming",
+      circle: "You can see how this becomes a negative spiral."
     },
     solution: {
       title: "What does this tell us?",
-      intro: "That by systematizing and centralizing your hiring process, you'll not only",
-      benefit1: "Sign better candidates faster",
+      intro: "That by automating your hiring process, you'll:",
+      benefit1: "Close better candidates faster",
       benefit2: "Handle large volumes of candidates without getting overwhelmed",
       benefit2Sub: "(so more options to choose from)",
-      benefit3: "Build a database of people to call whenever you need them",
+      benefit3: "Build a database of people to call when the need comes up",
       benefit3Sub: "(that can stay fresh year-round, depending on your hiring needs)",
       systemTitle: "This system supports healthy growth of your business.",
-      systemDesc: "You'll see clear, measurable, and immediate return on investment from day one with this hiring machine."
+      systemDesc: "You'll see a clear, measurable return on investment from day one with this hiring machine."
     },
     features: {
       title: "What's Included in the Hiring Machine",
-      intro: "Almost fully automated hiring pipelines built around your current process (you only need to review and sort the CVs/applications that come in). Your hiring process is simply automated and centralized. No more chaotic manual admin—the entire hiring process is managed from one place.",
+      intro: "Almost fully automated hiring pipelines built around your current process (you only need to review and sort the CVs/applications that come in). Your hiring process is simply automated and centralized. No more chaotic manual admin—the entire hiring process is managed from one place, in a few clicks.",
       forms: "Custom Forms",
       formsDesc: "Custom forms for each role you need to fill in your business, directly connected to the corresponding pipeline in your centralized hiring machine. Just post the short form links on your social media and hiring platforms, then wait for interested people to fill them out. For each role, you just pick the profiles you like most and move them along in a few clicks through the pipelines that represent your actual hiring process.",
       pipelines: "Centralized Pipelines",
-      pipelinesDesc: "All applications are automatically sorted. Every candidate who applies for a position (say, office manager) has their full name, CV, experience level, contact info (email + phone), rating (optional, but you can auto-rate experienced candidates with 4 stars to make sorting easier), submission date—everything is visible at a glance in their corresponding pipeline, ready to be evaluated and moved to the next stage.",
+      pipelinesDesc: "All applications are automatically sorted. Every candidate who applies for a position (say, office manager) has their full name, CV, experience level, contact info (email + phone), rating (optional, but you can auto-rate experienced candidates with 4 stars to make sorting easier), submission date—everything is visible at a glance, ready to be evaluated and moved to the next stage.",
       pipelinesNote: "Here the candidate automatically appears in the \"Office Manager\" pipeline under the first stage \"Intake\".",
       communication: "Automated Communication",
       communicationDesc: "No more getting lost in email chains and messages. Everything's tracked in the pipeline. When you like a candidate, one click moves them to the \"Interview\" stage and they automatically get a personalized invitation email with a link to book a time on your calendar.",
@@ -205,12 +205,12 @@ export const translations = {
       hired: "Hired",
       hiredDesc: "Stage 4 where a congratulations email + useful info is instantly sent when a candidate is moved here",
       notHired: "Not Hired",
-      notHiredDesc: "Stage 5 where a polite rejection email + personalized encouragement is automatically sent to candidates moved here. Useful for keeping the pipeline organized",
+      notHiredDesc: "Stage 5 where a polite rejection email + encouragement is automatically sent to candidates moved here. Useful for keeping the pipeline organized",
       keepInTouch: "Keep in Touch",
       keepInTouchDesc: "Stage 6 where you put: promising candidates you didn't hire this time, people who went silent, candidates you can refer elsewhere, etc.",
       visibility: "Total Visibility",
       visibilityDesc: "Your hiring team logs into one place. All applications, all stages, all ratings, all notes, all upcoming interviews—it's all there.",
-      visibilityBenefit: "Zero confusion. You only need 3 tabs open to run your hiring: the hiring machine, your email, your calendar.",
+      visibilityBenefit: "Zero confusion. You only need 3 tabs open to run your hiring: the automated machine, your email, your calendar.",
       scalability: "Automatic Scalability",
       scalabilityDesc: "Whether you get 10 or 1,000 applications a month, the system works the same way.",
       scalabilityBenefit: "No bottlenecks, no admin walls."
@@ -255,18 +255,18 @@ export const translations = {
       guarantee4: "You just cover the monthly platform costs ($39-$48) if you want to keep using it."
     },
     cta: {
-      title: "BOOST YOUR EFFICIENCY. SCALE AND GROW YOUR BUSINESS LIKE A PRO.",
+      title: "BOOST YOUR EFFICIENCY. RUN YOUR BUSINESS LIKE A PRO.",
       ctaTitle: "TO GET YOUR FREE MACHINE TODAY",
       option1: "Option 1:",
-      option1Text: "JUST REPLY TO THE EMAIL YOU RECEIVED WITH YOUR CALENDAR—SO WE CAN BOOK A TIME AND START STEP 1 WITH YOU",
+      option1Text: "Reply to the email you received with your calendar link. We book in and attack step 1 with you.",
       option2: "Option 2:",
-      option2Text: "OR REPLY WITH A DATE, A TIME (when you're available) AND A GOOGLE MEET LINK WE'LL JOIN (you can generate one in a second on the Google Meet site)",
+      option2Text: "Reply to the email you received with a date, a time you're available and a Google Meet link we will join. (You can generate one in a second on the Google Meet site.)",
       trial: "Free 21-Day Trial",
-      looking: "We're looking for 3 more companies",
+      looking: "We're looking for 2 more companies until Jan 8th, 2026",
       riskFree: "Risk-Free Guarantee",
       riskFreeDesc: "If this machine doesn't cut your admin time by 50 to 86.67%, you don't pay a cent. And you keep everything.",
       company: "SAYCE DIGITAL",
-      services: "SAYCE Automation Services",
+      services: "Automation Services",
       rights: "All Rights Reserved | All Wrongs Reversed",
       legal: "Terms & Conditions | Privacy Policy | Disclaimer"
     }
