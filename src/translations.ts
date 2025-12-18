@@ -140,7 +140,7 @@ export const translations = {
       badge: "Free 21-Day Trial of the Hiring Machine",
       lookingFor: "We're looking for 2 more companies to build this for until Jan 8th, 2026!",
       title: "Get a Fully Automated (Almost) Hiring Machine Set Up in Your Business in 48 Hours, Free — Done For You, So You Never Chase Candidates Again or Lose Your Best People",
-      testimonial: "We've processed dozens of candidates with this system and it saved us a ridiculous amount of time.",
+      testimonial: "We've processed dozens of candidates through this system and it saved a ridiculous amount of time.",
       guarantee: "IF THIS MACHINE DOESN'T CUT YOUR ADMIN TIME BY 50 TO 86.67% (speed keeps the best candidates) YOU DO NOT PAY A CENT. AND YOU CAN KEEP EVERYTHING.",
       description: "For business owners who want to hire more efficiently, minimize the risk of losing great candidates, always have people to call when you need them, and eliminate 10 to 15 hours of chaotic, totally avoidable manual admin work."
     },
